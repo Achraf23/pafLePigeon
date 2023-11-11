@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1673202884 source:c:\users\tgben\onedrive\bureau\paflepigeon\main.cpp
+1673206484 source:c:\users\tgben\onedrive\bureau\paflepigeon\main.cpp
 	<iostream>
 	<SDL2/SDL.h>
 	<SDL2/SDL_image.h>
@@ -9,7 +9,7 @@
 	<vector>
 	"constantes.h"
 
-1660838585 c:\lib_codeblocks\sdl\include\sdl2\sdl.h
+1660842185 c:\lib_codeblocks\sdl\include\sdl2\sdl.h
 	"SDL_main.h"
 	"SDL_stdinc.h"
 	"SDL_assert.h"
@@ -46,12 +46,12 @@
 	"begin_code.h"
 	"close_code.h"
 
-1660838583 c:\lib_codeblocks\sdl\include\sdl2\sdl_main.h
+1660842183 c:\lib_codeblocks\sdl\include\sdl2\sdl_main.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1660838583 c:\lib_codeblocks\sdl\include\sdl2\sdl_stdinc.h
+1660842183 c:\lib_codeblocks\sdl\include\sdl2\sdl_stdinc.h
 	"SDL_config.h"
 	<sys/types.h>
 	<stdio.h>
@@ -80,28 +80,28 @@
 	"begin_code.h"
 	"close_code.h"
 
-1660838583 c:\lib_codeblocks\sdl\include\sdl2\sdl_config.h
+1660842183 c:\lib_codeblocks\sdl\include\sdl2\sdl_config.h
 	"SDL_platform.h"
 	<winsdkver.h>
 
-1660838583 c:\lib_codeblocks\sdl\include\sdl2\sdl_platform.h
+1660842183 c:\lib_codeblocks\sdl\include\sdl2\sdl_platform.h
 	"AvailabilityMacros.h"
 	"TargetConditionals.h"
 	<winapifamily.h>
 	"begin_code.h"
 	"close_code.h"
 
-1660838582 c:\lib_codeblocks\sdl\include\sdl2\begin_code.h
+1660842182 c:\lib_codeblocks\sdl\include\sdl2\begin_code.h
 
-1660838585 c:\lib_codeblocks\sdl\include\sdl2\close_code.h
+1660842185 c:\lib_codeblocks\sdl\include\sdl2\close_code.h
 
-1660838584 c:\lib_codeblocks\sdl\include\sdl2\sdl_assert.h
+1660842184 c:\lib_codeblocks\sdl\include\sdl2\sdl_assert.h
 	"SDL_config.h"
 	"begin_code.h"
 	<signal.h>
 	"close_code.h"
 
-1660838584 c:\lib_codeblocks\sdl\include\sdl2\sdl_atomic.h
+1660842184 c:\lib_codeblocks\sdl\include\sdl2\sdl_atomic.h
 	"SDL_stdinc.h"
 	"SDL_platform.h"
 	"begin_code.h"
@@ -109,7 +109,7 @@
 	<mbarrier.h>
 	"close_code.h"
 
-1660838583 c:\lib_codeblocks\sdl\include\sdl2\sdl_audio.h
+1660842183 c:\lib_codeblocks\sdl\include\sdl2\sdl_audio.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_endian.h"
@@ -119,12 +119,12 @@
 	"begin_code.h"
 	"close_code.h"
 
-1660838582 c:\lib_codeblocks\sdl\include\sdl2\sdl_error.h
+1660842182 c:\lib_codeblocks\sdl\include\sdl2\sdl_error.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1660838582 c:\lib_codeblocks\sdl\include\sdl2\sdl_endian.h
+1660842182 c:\lib_codeblocks\sdl\include\sdl2\sdl_endian.h
 	"SDL_stdinc.h"
 	<intrin.h>
 	<endian.h>
@@ -133,13 +133,13 @@
 	"begin_code.h"
 	"close_code.h"
 
-1660838584 c:\lib_codeblocks\sdl\include\sdl2\sdl_mutex.h
+1660842184 c:\lib_codeblocks\sdl\include\sdl2\sdl_mutex.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1660838584 c:\lib_codeblocks\sdl\include\sdl2\sdl_thread.h
+1660842184 c:\lib_codeblocks\sdl\include\sdl2\sdl_thread.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_atomic.h"
@@ -150,18 +150,18 @@
 	"begin_code.h"
 	"close_code.h"
 
-1660838584 c:\lib_codeblocks\sdl\include\sdl2\sdl_rwops.h
+1660842184 c:\lib_codeblocks\sdl\include\sdl2\sdl_rwops.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1660838582 c:\lib_codeblocks\sdl\include\sdl2\sdl_clipboard.h
+1660842182 c:\lib_codeblocks\sdl\include\sdl2\sdl_clipboard.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1660838585 c:\lib_codeblocks\sdl\include\sdl2\sdl_cpuinfo.h
+1660842185 c:\lib_codeblocks\sdl\include\sdl2\sdl_cpuinfo.h
 	"SDL_stdinc.h"
 	<intrin.h>
 	<intrin.h>
@@ -181,7 +181,7 @@
 	"begin_code.h"
 	"close_code.h"
 
-1660838582 c:\lib_codeblocks\sdl\include\sdl2\sdl_events.h
+1660842182 c:\lib_codeblocks\sdl\include\sdl2\sdl_events.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_video.h"
@@ -195,7 +195,7 @@
 	"begin_code.h"
 	"close_code.h"
 
-1660838584 c:\lib_codeblocks\sdl\include\sdl2\sdl_video.h
+1660842184 c:\lib_codeblocks\sdl\include\sdl2\sdl_video.h
 	"SDL_stdinc.h"
 	"SDL_pixels.h"
 	"SDL_rect.h"
@@ -203,13 +203,13 @@
 	"begin_code.h"
 	"close_code.h"
 
-1660838585 c:\lib_codeblocks\sdl\include\sdl2\sdl_pixels.h
+1660842185 c:\lib_codeblocks\sdl\include\sdl2\sdl_pixels.h
 	"SDL_stdinc.h"
 	"SDL_endian.h"
 	"begin_code.h"
 	"close_code.h"
 
-1660838584 c:\lib_codeblocks\sdl\include\sdl2\sdl_rect.h
+1660842184 c:\lib_codeblocks\sdl\include\sdl2\sdl_rect.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_pixels.h"
@@ -217,7 +217,7 @@
 	"begin_code.h"
 	"close_code.h"
 
-1660838584 c:\lib_codeblocks\sdl\include\sdl2\sdl_surface.h
+1660842184 c:\lib_codeblocks\sdl\include\sdl2\sdl_surface.h
 	"SDL_stdinc.h"
 	"SDL_pixels.h"
 	"SDL_rect.h"
@@ -226,11 +226,11 @@
 	"begin_code.h"
 	"close_code.h"
 
-1660838583 c:\lib_codeblocks\sdl\include\sdl2\sdl_blendmode.h
+1660842183 c:\lib_codeblocks\sdl\include\sdl2\sdl_blendmode.h
 	"begin_code.h"
 	"close_code.h"
 
-1660838582 c:\lib_codeblocks\sdl\include\sdl2\sdl_keyboard.h
+1660842182 c:\lib_codeblocks\sdl\include\sdl2\sdl_keyboard.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_keycode.h"
@@ -238,27 +238,27 @@
 	"begin_code.h"
 	"close_code.h"
 
-1660838582 c:\lib_codeblocks\sdl\include\sdl2\sdl_keycode.h
+1660842182 c:\lib_codeblocks\sdl\include\sdl2\sdl_keycode.h
 	"SDL_stdinc.h"
 	"SDL_scancode.h"
 
-1660838583 c:\lib_codeblocks\sdl\include\sdl2\sdl_scancode.h
+1660842183 c:\lib_codeblocks\sdl\include\sdl2\sdl_scancode.h
 	"SDL_stdinc.h"
 
-1660838583 c:\lib_codeblocks\sdl\include\sdl2\sdl_mouse.h
+1660842183 c:\lib_codeblocks\sdl\include\sdl2\sdl_mouse.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_video.h"
 	"begin_code.h"
 	"close_code.h"
 
-1660838585 c:\lib_codeblocks\sdl\include\sdl2\sdl_joystick.h
+1660842185 c:\lib_codeblocks\sdl\include\sdl2\sdl_joystick.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1660838584 c:\lib_codeblocks\sdl\include\sdl2\sdl_gamecontroller.h
+1660842184 c:\lib_codeblocks\sdl\include\sdl2\sdl_gamecontroller.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_rwops.h"
@@ -267,17 +267,17 @@
 	"begin_code.h"
 	"close_code.h"
 
-1660838583 c:\lib_codeblocks\sdl\include\sdl2\sdl_sensor.h
+1660842183 c:\lib_codeblocks\sdl\include\sdl2\sdl_sensor.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1660838583 c:\lib_codeblocks\sdl\include\sdl2\sdl_quit.h
+1660842183 c:\lib_codeblocks\sdl\include\sdl2\sdl_quit.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 
-1660838583 c:\lib_codeblocks\sdl\include\sdl2\sdl_gesture.h
+1660842183 c:\lib_codeblocks\sdl\include\sdl2\sdl_gesture.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_video.h"
@@ -285,70 +285,70 @@
 	"begin_code.h"
 	"close_code.h"
 
-1660838583 c:\lib_codeblocks\sdl\include\sdl2\sdl_touch.h
+1660842183 c:\lib_codeblocks\sdl\include\sdl2\sdl_touch.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_video.h"
 	"begin_code.h"
 	"close_code.h"
 
-1660838585 c:\lib_codeblocks\sdl\include\sdl2\sdl_filesystem.h
+1660842185 c:\lib_codeblocks\sdl\include\sdl2\sdl_filesystem.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1660838582 c:\lib_codeblocks\sdl\include\sdl2\sdl_haptic.h
+1660842182 c:\lib_codeblocks\sdl\include\sdl2\sdl_haptic.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_joystick.h"
 	"begin_code.h"
 	"close_code.h"
 
-1660838584 c:\lib_codeblocks\sdl\include\sdl2\sdl_hidapi.h
+1660842184 c:\lib_codeblocks\sdl\include\sdl2\sdl_hidapi.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1660838583 c:\lib_codeblocks\sdl\include\sdl2\sdl_hints.h
+1660842183 c:\lib_codeblocks\sdl\include\sdl2\sdl_hints.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1660838583 c:\lib_codeblocks\sdl\include\sdl2\sdl_loadso.h
+1660842183 c:\lib_codeblocks\sdl\include\sdl2\sdl_loadso.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1660838584 c:\lib_codeblocks\sdl\include\sdl2\sdl_log.h
+1660842184 c:\lib_codeblocks\sdl\include\sdl2\sdl_log.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1660838585 c:\lib_codeblocks\sdl\include\sdl2\sdl_messagebox.h
+1660842185 c:\lib_codeblocks\sdl\include\sdl2\sdl_messagebox.h
 	"SDL_stdinc.h"
 	"SDL_video.h"
 	"begin_code.h"
 	"close_code.h"
 
-1660838584 c:\lib_codeblocks\sdl\include\sdl2\sdl_metal.h
+1660842184 c:\lib_codeblocks\sdl\include\sdl2\sdl_metal.h
 	"SDL_video.h"
 	"begin_code.h"
 	"close_code.h"
 
-1660838582 c:\lib_codeblocks\sdl\include\sdl2\sdl_power.h
+1660842182 c:\lib_codeblocks\sdl\include\sdl2\sdl_power.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1660838584 c:\lib_codeblocks\sdl\include\sdl2\sdl_render.h
+1660842184 c:\lib_codeblocks\sdl\include\sdl2\sdl_render.h
 	"SDL_stdinc.h"
 	"SDL_rect.h"
 	"SDL_video.h"
 	"begin_code.h"
 	"close_code.h"
 
-1660838583 c:\lib_codeblocks\sdl\include\sdl2\sdl_shape.h
+1660842183 c:\lib_codeblocks\sdl\include\sdl2\sdl_shape.h
 	"SDL_stdinc.h"
 	"SDL_pixels.h"
 	"SDL_rect.h"
@@ -357,7 +357,7 @@
 	"begin_code.h"
 	"close_code.h"
 
-1660838583 c:\lib_codeblocks\sdl\include\sdl2\sdl_system.h
+1660842183 c:\lib_codeblocks\sdl\include\sdl2\sdl_system.h
 	"SDL_stdinc.h"
 	"SDL_keyboard.h"
 	"SDL_render.h"
@@ -365,63 +365,63 @@
 	"begin_code.h"
 	"close_code.h"
 
-1660838583 c:\lib_codeblocks\sdl\include\sdl2\sdl_timer.h
+1660842183 c:\lib_codeblocks\sdl\include\sdl2\sdl_timer.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1660838584 c:\lib_codeblocks\sdl\include\sdl2\sdl_version.h
+1660842184 c:\lib_codeblocks\sdl\include\sdl2\sdl_version.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1660838583 c:\lib_codeblocks\sdl\include\sdl2\sdl_locale.h
+1660842183 c:\lib_codeblocks\sdl\include\sdl2\sdl_locale.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1660838582 c:\lib_codeblocks\sdl\include\sdl2\sdl_misc.h
+1660842182 c:\lib_codeblocks\sdl\include\sdl2\sdl_misc.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1580767326 c:\lib_codeblocks\sdl\include\sdl2\sdl_image.h
+1580770926 c:\lib_codeblocks\sdl\include\sdl2\sdl_image.h
 	"SDL.h"
 	"SDL_version.h"
 	"begin_code.h"
 	"close_code.h"
 
-1672614464 c:\users\tgben\onedrive\bureau\paflepigeon\bird.h
+1672618064 c:\users\tgben\onedrive\bureau\paflepigeon\bird.h
 	<SDL2/SDL.h>
 	"Pipe.h"
 
-1672614464 source:c:\users\tgben\onedrive\bureau\paflepigeon\bird.cpp
+1672618064 source:c:\users\tgben\onedrive\bureau\paflepigeon\bird.cpp
 	"bird.h"
 	<SDL2/SDL_image.h>
 	<iostream>
 	"constantes.h"
 
-1672613617 source:c:\users\tgben\onedrive\bureau\paflepigeon\pipe.cpp
+1672617217 source:c:\users\tgben\onedrive\bureau\paflepigeon\pipe.cpp
 	"Pipe.h"
 	<SDL2/SDL_image.h>
 	<iostream>
 	"constantes.h"
 
-1672613617 c:\users\tgben\onedrive\bureau\paflepigeon\pipe.h
+1672617217 c:\users\tgben\onedrive\bureau\paflepigeon\pipe.h
 	<SDL2/SDL.h>
 
-1666107564 source:c:\users\tgben\onedrive\bureau\paflepigeon\pipecontainer.cpp
+1666111164 source:c:\users\tgben\onedrive\bureau\paflepigeon\pipecontainer.cpp
 	"PipeContainer.h"
 	<iostream>
 
-1661702129 c:\users\tgben\onedrive\bureau\paflepigeon\pipecontainer.h
+1661705729 c:\users\tgben\onedrive\bureau\paflepigeon\pipecontainer.h
 	<vector>
 	"Pipe.h"
 
 1661638972 c:\users\tgben\onedrive\bureau\paflepigeon\obstacle.h
 	"Pipe.h"
 
-1673202804 c:\users\tgben\onedrive\bureau\paflepigeon\constantes.h
+1673206404 c:\users\tgben\onedrive\bureau\paflepigeon\constantes.h
 
