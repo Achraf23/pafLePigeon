@@ -1,4 +1,4 @@
-#PafLePigeon
+# PafLePigeon
 
 Le projet s’inscrit dans le cadre de l’UE LIFAP4. Nous souhaitons réaliser un jeu similaire à Flappy Bird.
 Ainsi avons fait ce choix de jeu relativement simpliste afin de pouvoir présenter un projet complet. Ce document
